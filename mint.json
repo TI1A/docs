@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:ola@copyxyz.com"
     }
   ],
   "topbarCtaButton": {
@@ -40,7 +40,7 @@
     {
       "name": "About",
       "icon": "slack",
-      "url": "https://.com/"
+      "url": "https://mintlify.com/community"
     },
     {
       "name": "Blog",
