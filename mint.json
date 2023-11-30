@@ -18,34 +18,34 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:ola@copyxyz.com"
+      "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Reference",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documents",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://.com/docs"
     },
     {
-      "name": "Community",
+      "name": "About",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https:/.com/blog"
     }
   ],
   "navigation": [
