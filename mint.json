@@ -58,11 +58,11 @@
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
     {
-      "group": "Documents",
-      "pages": ["api-reference/"]
+      "group": "Documentation",
+      "pages": ["api-reference/introduction"]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Examples",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
